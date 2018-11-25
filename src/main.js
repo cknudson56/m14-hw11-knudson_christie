@@ -1,0 +1,1 @@
+const forecast = {"error": "404"};
