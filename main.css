@@ -1,0 +1,22 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+}
+h1 {
+	background-color:  #cccccc;
+	color: white;
+	height: 100px;
+	padding-top: 30px;
+}
+main {
+	padding-top: 30px;
+	padding-bottom: 50px;
+	color: #666666;
+}
+
+footer {
+	height: 100px;
+	color: #cccccc;
+	font-size: 2rem;
+	padding-top: 50px;
+}
