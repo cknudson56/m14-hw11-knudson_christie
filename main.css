@@ -2,23 +2,31 @@ body {
 	font-family: Verdana, Geneva, sans-serif;
 	text-align: center;
 }
-h1 {
-	background-color:  #cccccc;
-	color: white;
-	height: 100px;
-	padding-top: 30px;
+header {
+	background-image: url('mpls.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
 }
+
+h1 {
+	color: white;
+	padding-top: 390px;
+}
+
 main {
-	padding-top: 30px;
-	padding-bottom: 50px;
-	color: #666666;
+	padding-top: 80px;
+	padding-bottom: 100px;
+	color: #7F8196;
 }
 
 footer {
 	height: 100px;
-	color: #cccccc;
+	color: white;
 	font-size: 2rem;
 	padding-top: 50px;
+	background-color:  #26232C;
 }
 
 span {
