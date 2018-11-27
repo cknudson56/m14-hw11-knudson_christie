@@ -41,8 +41,7 @@ let forecast = {
     "name": "Minneapolis",
     "cod": 200
 };
-const weatherWrapper = document.getElementsByClassName("weatherspan");
+const weatherWrapper = document.getElementsByClassName("weatherspan")[0];
 const currentWeather = document.createTextNode(forecast.weather[0].description);
 weatherWrapper.appendChild(currentWeather);
-console.log(currentWeather);
-console.log(weatherWrapper);
+
